@@ -23,10 +23,23 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+A: A web page being accesible means that it implements features that allows users with disabilities like deafness and reduced vision to navigate the page, 
+   this features could include screen readers or adjustable font size to give them easier access to its content.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+A: dinamic font size for reduced vision users, screen readers for the blind users and implementing certain colors for the colorblind users.
+
 3. How would you explain the concept of a variable to someone new to programming?
+A: A variable is a way to store a value on memory for later use in the program, is like a backpack the holds the school supply for when you need them.
+
 4. What is the purpose of using functions in code?
+A: functions are blocks of code that allows the developers to reuse the code inside of it, instead of typing a lengthy math operation over and over again, a 
+   function can be used to encapsulate  the operation, and then call the function as many times as needed without having to repeat the code multiple times.
+
 5. How do you access a key inside of an object inside of an array?
+A: Arrays are accessed by their index, every array astarts at index 0(first item of the array), up to array.length(how many items are in the array), and objects can be accessed
+   in two ways: dot(.) notation, or bracket([]) notation. for example:
+   myArr[5].name ---> Here we are accessing the value of the key 'name' of an object, which is in the sixth item(index 5) of myArr array.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
